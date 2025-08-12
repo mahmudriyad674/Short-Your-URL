@@ -4,8 +4,9 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>URL Shortener</title>
-<style>
-  body {
+<meta name="google-site-verification" content="Ru4AxNsXvuwcb67yi4XNbgL-e4xMw6HuNWJ3b3GvaP8" />
+ <head>
+ body {
     font-family: 'SolaimanLipi', Arial, sans-serif;
     background: #f0f2f5;
     display: flex;
